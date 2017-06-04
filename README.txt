@@ -1,0 +1,3 @@
+These maps were created for the legislative election coverage on Wikipedia. The color scheme used is the one in use on the french wikipedia. The majority of the file are derivated from the file created by Superbenjamin and uploaded on Wikimedia commons https://commons.wikimedia.org/wiki/File:Circonscriptions_l%C3%A9gislatives_fran%C3%A7aises_depuis_2012.svg under the Open Database License (https://opendatacommons.org/licenses/odbl/summary/).
+
+All the files are uploaded on Wikimedia commons and can be found on this page : https://commons.wikimedia.org/wiki/User:Ternoc/gallery/legislatives_2017 as well as the licenses.
