@@ -1,0 +1,19 @@
+| diagramme2 titre       = Résultats du {{2d|tour}}
+| diagramme2             = 2T Législatives 2017 Paris.svg
+| légende1 2             =
+{{Légende/Début}} 
+{{legend|#DD0000|[[La France insoumise]]}}
+{{legend|#FF8080|[[Parti socialiste (France)|Parti socialiste]]}}
+{{legend|#FFd1dc|[[Parti radical de gauche]]}}
+{{legend|#00C000|[[Europe Écologie Les Verts]]}}
+{{legend|#FFC0C0|[[Divers gauche]]}}
+{{legend|#FF9900|[[Mouvement démocrate (France)|Mouvement démocrate]]}}
+{{legend|#FFEB00|[[La République en marche !]]}}
+{{legend|#00FFFF|[[Union des démocrates et indépendants]]}}
+{{legend|#ADC1FD|[[Divers droite]]}}
+{{legend|#0066CC|[[Les Républicains]]}}
+{{legend|#C0C0C0|[[Front national (parti français)|Front national]]}}
+{{legend|#F0F0F0|[[Sans étiquette|Divers]]}}
+{{legend|#FFCC33|[[Régionalisme (politique)|Régionalistes]]}}
+{{legend|#F6E1B9|Égalité}}
+{{Légende/Fin}}
