@@ -1,7 +1,7 @@
 ﻿| diagramme titre        = Résultats du {{1er}} tour
 | diagramme              = 1T Législatives 2017 departement.svg
 | légende1               = Couleur de fond : couleur politique du candidat en tête<br/>Carré(s) : couleur politique des candidats habilités à se maintenir au second tour :<br/>
-{{legend|#DD0000|[[La France insoumise]]}}
+{{legend|#CC2443|[[La France insoumise]]}}
 {{legend|#FF8080|[[Parti socialiste (France)|Parti socialiste]]}}
 {{legend|#FFd1dc|[[Parti radical de gauche]]}}
 {{legend|#00C000|[[Europe Écologie Les Verts]]}}
